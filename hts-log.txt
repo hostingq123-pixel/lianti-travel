@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Jul 2026 14:54:53 at https://liantitravel.com +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Pns2u1k%s%uN0%I0p3SdK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://liantitravel.com -O1 "C:\Website Backup\Lianti Travel" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:55:22	Error: 	"Not Found" (404) at link www.googletagmanager.com/ (from https://liantitravel.com/)
+14:55:29	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1 (from https://liantitravel.com/)
+14:55:29	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/core.js?ver=3.10.01 (from https://liantitravel.com/)
+14:55:29	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/video.js?ver=3.10.01 (from https://liantitravel.com/)
+14:55:29	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17 (from https://liantitravel.com/)
+14:55:29	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.8.5 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.29.2 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.29.2 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.29.2 (from https://liantitravel.com/)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/inavii-social-feed-for-elementor/includes/Legacy/Assets/dist/js/inavii-js.min.js?ver=3.0.4 (from https://liantitravel.com/)
+14:55:30	Warning: 	Warning: store text/css without scan: C:/Website Backup/Lianti Travel/gmpg.org/xfn/default.css
+14:55:30	Warning: 	Warning: store text/html without scan: C:/Website Backup/Lianti Travel/gmpg.org/xfn/.html
+14:55:30	Warning: 	Warning: store text/html without scan: C:/Website Backup/Lianti Travel/gmpg.org/xfn/intro.html
+14:55:30	Warning: 	Warning: store text/html without scan: C:/Website Backup/Lianti Travel/gmpg.org/xfn/faq.html
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/mediaelement/mejs-controls.svg (from https://liantitravel.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/inavii-social-feed-for-elementor/includes/Legacy/Assets/dist/fonts/inavii-icon.svg (from https://liantitravel.com/wp-content/plugins/inavii-social-feed-for-elementor/includes/Legacy/Assets/dist/css/inavii-styles.min.css?ver=3.0.4)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png (from https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.10.01)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png (from https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.10.01)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png (from https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.10.01)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png (from https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.10.01)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg (from https://liantitravel.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.10.01)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.svg (from https://liantitravel.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/elegant.css?ver=1.1.1)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.svg?-fvbane (from https://liantitravel.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/themify.css?ver=1.1.1)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/css/dashicons.min.css?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/css/buttons.min.css?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-admin/css/forms.min.css?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-admin/css/l10n.min.css?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-admin/css/login.min.css?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-login.php?action=lostpassword (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/clipboard.min.js?ver=2.0.11 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-admin/js/password-strength-meter.min.js?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/underscore.min.js?ver=1.13.7 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/wp-util.min.js?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/wp-admin/js/user-profile.min.js?ver=6.8.5 (from https://liantitravel.com/wp-login.php?action=googlesitekit_auth)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/${l} (from https://liantitravel.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/e (from https://liantitravel.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+14:55:30	Error: 	"Too Many Requests" (429) at link https://liantitravel.com/t.params.url (from https://liantitravel.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 146 links scanned, 105 files written (14758264 bytes overall), 50 files updated [1173351 bytes received at 31712 bytes/sec], 1240400 bytes transferred using HTTP compression in 22 files, ratio 14%, 10.0 requests per connection
+(38 errors, 4 warnings, 0 messages)
